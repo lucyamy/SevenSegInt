@@ -10,7 +10,7 @@
 
 
 // The Timer defines only make the option
-// of using the timer available. SevenSeg
+// of using the timer available. SevenSegInt
 // won't use them unless you tell it to.
 // Note: You need a board that supports these
 // timers, and you need the libray installed,
